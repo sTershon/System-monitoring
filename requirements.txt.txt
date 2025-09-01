@@ -1,0 +1,3 @@
+psutil
+GPUtil
+nvidia-ml-py3
